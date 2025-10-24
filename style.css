@@ -8,6 +8,7 @@ body{
     height: 100vh;
     font-family: 'poppins';
     background: #07182e;
+    color: white;
 }
 .cards{
     width: 100%;
