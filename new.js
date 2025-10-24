@@ -10,6 +10,6 @@ alert("Welcome to JS Land... \n Happy Coding!")
 
 // Question No.4
 alert("Welcome to JS Land...")
-alert("Happy Coding! \n Prevent this page from creating additional dialogs.")
+alert("Happy Coding! \n Prevent this page from creating additional dialogs.") 
 
 

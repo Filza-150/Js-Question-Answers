@@ -10,7 +10,7 @@ let message = "Hello World";
 alert(message);
 
 // question No.4
-let name = "Filza Naeem";
+let name = "Filza Naeem"; 
 alert(name);
 let age = "15"
 alert(age);
